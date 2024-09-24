@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onwaver.github.io/sitemap.html.gz
+Sitemap: https://onwaver.github.io/app/sitemap.html.gz
+Sitemap: https://onwaver.github.io/assets/sitemap.html.gz
+Sitemap: https://onwaver.github.io/css/sitemap.html.gz
+Sitemap: https://onwaver.github.io/data/sitemap.html.gz
+Sitemap: https://onwaver.github.io/includes/sitemap.html.gz
+Sitemap: https://onwaver.github.io/item/sitemap.html.gz
+Sitemap: https://onwaver.github.io/src/sitemap.html.gz
